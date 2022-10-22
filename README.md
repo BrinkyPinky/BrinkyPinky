@@ -10,4 +10,5 @@
 + Архитектуры: MVC, MVVM, VIPER, Clean Swift
 + DataBases: REALM, Firebase, CoreData
 + Технологии: Autolayout, REST API, GCD, ООП, SOLID, HIG, GIT
++ Менеджеры зависимости: CocoaPods, SPM, Carthage
 + Frameworks: Alamofire, RxSwift
