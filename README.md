@@ -9,5 +9,5 @@
 + Знание UIKit, SwiftUI, SpriteKit
 + Архитектуры: MVC, MVVM, VIPER, Clean Swift
 + DataBases: REALM, Firebase, CoreData
-+ Технологии: Autolayout, REST API, GCD, SOLID, HIG, GIT
++ Технологии: Autolayout, REST API, GCD, ООП, SOLID, HIG, GIT
 + Frameworks: Alamofire, RxSwift
